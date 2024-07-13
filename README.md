@@ -1,2 +1,6 @@
 # Prototype-Travel-App
-A prototype travel application in Java - employing a comprehensive array of data structures and time-efficient algorithms. Additionally, I utilised techniques such as defensive programming, object-oriented analysis and design, UML diagrams, and Javadocs. This multifaceted approach ensured the creation of a robust, well-documented, and efficient application.
+Developed a TUI-based travel application prototype in Java, employing a comprehensive range of data structures and time-efficient algorithms.
+
+Developed a custom Weighted Graph Abstract Data Type (ADT) to model travel locations and implemented a range of algorithms including Dijkstra’s Algorithm to solve optimisation problems, such as finding the shortest, most cost-effective path between a list of destination cities, and an all-pairs shortest path problem.
+
+Utilised defensive programming techniques, object-oriented analysis and design principles, UML diagrams, and thorough Javadoc documentation. This multifaceted approach resulted in a robust, well-documented, and efficient application, demonstrating strong problem-solving skills and technical proficiency.
