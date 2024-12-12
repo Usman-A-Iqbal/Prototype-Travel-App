@@ -10,8 +10,7 @@ Utilised defensive programming techniques, object-oriented analysis and design p
 To get started with this project, clone the repository and run inside IDE:
 
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/Usman-A-Iqbal/Prototype-Travel-App
 ```
 > Note: The database with the relavant cities needs to be in CSV format
 > > 
