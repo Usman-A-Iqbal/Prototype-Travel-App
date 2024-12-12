@@ -7,11 +7,11 @@ Utilised defensive programming techniques, object-oriented analysis and design p
 
 ## Getting Started
 
-To get started with this project, clone the repository:
+To get started with this project, clone the repository and run inside IDE:
 
 ```bash
 git clone <repository-url>
 cd <repository-name>
 ```
-> Note: This code can then ran inside an IDE
-> 
+> Note: The database with the relavant cities needs to be in CSV format
+> > 
